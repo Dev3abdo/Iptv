@@ -4,7 +4,7 @@
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/r8exCUv-IGXpG8_W0bfz_d1x6a1bBXIIdhreZxk6nDUQEe5NeIWT79iooxbZw2qfP6nVdHluHm6yF4EytpBw-g/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
 #EXTINF:-1,BeinSport 1 4k
-https://wikinew.newkso.ru/wiki/mZXhIbOcsy/mono.m3u8
+https://a4.bein-match.tech/broadcast/C0I8Xs327W2VFbDytjkD4Q/1758226208/1758225954/1/bein1.m3u8
 
 #EXTINF:-1,BeinSport 1 D
 https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/F4HkDq4NSywYcIU8HspXgTjpNJcCddo7awcTF1vVuVCH9u-x5u21IP7m1UB1D2yHZ1-lCIpeY0xu8KaWVEmGdg/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live
